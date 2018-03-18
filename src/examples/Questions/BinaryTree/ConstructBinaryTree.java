@@ -37,7 +37,6 @@ public class ConstructBinaryTree {
                 root.nData = preOrder[preStart];
                 root.leftNode = rebuild(preOrder,preStart+1,preStart+1+(i-inStart),inOrder,inStart,i-1);
                 root.rightNode = rebuild(preOrder,i-inStart+1+preStart,preEnd,inOrder,i+1,inEnd);
-
             }
         }
         return root;
