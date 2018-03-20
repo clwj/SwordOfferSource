@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c4bd779-759b-4cf7-bb87-313ea4e2dd56" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/examples/Questions/BinaryTree/ConstructBinaryTree.java" afterPath="$PROJECT_DIR$/src/examples/Questions/BinaryTree/ConstructBinaryTree.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SWordOfferSource/examples/Questions/QueueStackTransfer/CStack.class" afterPath="$PROJECT_DIR$/out/production/SWordOfferSource/examples/Questions/QueueStackTransfer/CStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,29 +13,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SWordOfferSource$Min.coverage" NAME="Min Coverage Results" MODIFIED="1521538294141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>examples.Questions.Sort.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingleTon2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueSingleTon/SingleTon2.java">
+      <file leaf-file-name="QSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/QSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CQueue.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-              <folding>
-                <element signature="e#453#462#0" expanded="true" />
-                <element signature="e#512#521#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -70,6 +61,10 @@
         <option value="$PROJECT_DIR$/src/examples/Questions/BinaryTree/ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CQueue.java" />
         <option value="$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CStack.java" />
+        <option value="$PROJECT_DIR$/src/examples/Questions/Sort/QSort.java" />
+        <option value="$PROJECT_DIR$/src/examples/Questions/Sort/BiSort.java" />
+        <option value="$PROJECT_DIR$/src/examples/Questions/Sort/Min.java" />
+        <option value="$PROJECT_DIR$/src/examples/Questions/Sort/SortAges.java" />
       </list>
     </option>
   </component>
@@ -86,7 +81,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -126,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,58 +144,16 @@
               <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintList" type="462c0819:PsiDirectoryNode" />
-              <item name="PrintListReversingly.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="QueFind" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="QueSingleTon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="QueStringReplace" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SWordOfferSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SWordOfferSource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Questions" type="462c0819:PsiDirectoryNode" />
-              <item name="QueueStackTransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,34 +173,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CStack">
-    <configuration name="BinaryTreeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SortAges">
+    <configuration name="BiSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="examples.Questions.BinaryTree.*" />
+          <option name="PATTERN" value="examples.Questions.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="examples.Questions.BinaryTree.BinaryTreeApp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="SWordOfferSource" />
-      <envs />
-    </configuration>
-    <configuration name="CQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="examples.Questions.QueueStackTransfer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="examples.Questions.QueueStackTransfer.CQueue" />
+      <option name="MAIN_CLASS_NAME" value="examples.Questions.Sort.BiSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -279,14 +212,14 @@
       <module name="SWordOfferSource" />
       <envs />
     </configuration>
-    <configuration name="ConstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="examples.Questions.BinaryTree.*" />
+          <option name="PATTERN" value="examples.Questions.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="examples.Questions.BinaryTree.ConstructBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="examples.Questions.Sort.Min" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -298,14 +231,33 @@
       <module name="SWordOfferSource" />
       <envs />
     </configuration>
-    <configuration name="PrintListReversingly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="QSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="examples.Questions.PrintList.*" />
+          <option name="PATTERN" value="examples.Questions.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="examples.Questions.PrintList.PrintListReversingly" />
+      <option name="MAIN_CLASS_NAME" value="examples.Questions.Sort.QSort" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SWordOfferSource" />
+      <envs />
+    </configuration>
+    <configuration name="SortAges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="examples.Questions.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="examples.Questions.Sort.SortAges" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -399,19 +351,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintListReversingly" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CQueue" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CStack" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CStack" />
+      <item index="1" class="java.lang.String" itemvalue="Application.QSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BiSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Min" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortAges" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CStack" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CQueue" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ConstructBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeApp" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintListReversingly" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortAges" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Min" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BiSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.QSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CStack" />
       </list>
     </recent_temporary>
   </component>
@@ -427,16 +379,17 @@
       <updated>1521185311015</updated>
       <workItem from="1521185316396" duration="10590000" />
       <workItem from="1521271543267" duration="3192000" />
-      <workItem from="1521335626237" duration="14247000" />
+      <workItem from="1521335626237" duration="14632000" />
+      <workItem from="1521452726407" duration="3035000" />
+      <workItem from="1521534289091" duration="5808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28029000" />
+    <option name="totallyTimeSpent" value="37257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -448,10 +401,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3241491" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -518,17 +472,77 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examples/Questions/Sort/BiSort.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examples/Questions/Sort/BiSort.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examples/Questions/Sort/BiSort.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examples/Questions/Sort/Min.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/examples/Questions/Sort/Min.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/QSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueSingleTon/SingleTon2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/QSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueSingleTon/SingleTon2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,7 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -590,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="24" column="42" lean-forward="false" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding>
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,14 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/Questions/BinaryTree/BinaryTreeApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/BinaryTree/BinaryTreeApp.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3161">
@@ -635,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,15 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueSingleTon/SingleTon2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1270">
           <caret line="139" column="46" lean-forward="false" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="82" column="29" lean-forward="false" selection-start-line="82" selection-start-column="24" selection-end-line="82" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,30 +680,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-521">
           <caret line="161" column="15" lean-forward="false" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="659">
+          <caret line="45" column="35" lean-forward="true" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueueStackTransfer/CQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="49" column="48" lean-forward="true" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="48" />
-          <folding>
-            <element signature="e#453#462#0" expanded="true" />
-            <element signature="e#512#521#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="567">
+          <caret line="44" column="48" lean-forward="true" selection-start-line="44" selection-start-column="48" selection-end-line="44" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/QueSingleTon/SingleTon2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/BiSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/Min.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/SortAges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/Questions/Sort/QSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
